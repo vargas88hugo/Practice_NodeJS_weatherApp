@@ -2,7 +2,6 @@
 
 This is a program that shows the wheather of the requested city. The Functionality of the program uses promises and Async/Await functions. It also consumes API's like rapidapi and open weather map
 
----
 ## Requirements
 
 For development, you will only need Node.js, yargs and axios packages.
@@ -32,7 +31,6 @@ If the installation was successful, you should be able to run the following comm
     $ npm --version
     6.1.0
 ```
----
 
 ## Install
 
